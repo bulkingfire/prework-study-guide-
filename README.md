@@ -1,4 +1,4 @@
-# <Prework Webpage >
+# Project Study Guide Webpage
 
 ## This webpage was created as an interactive tool to be able to help students keep track of notes and learn HTML, CSS, and Java script while doing it. We learned about coding using the elements tought by the bootcamp. 
 
